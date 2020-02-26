@@ -1,0 +1,13 @@
+<!DOCTYPE html>
+<html lang="en" dir="ltr">
+  <head>
+    <meta charset="utf-8">
+    <title></title>
+  </head>
+  <body>
+    <h1>Meow School Students: </h1>
+    <% @data.each do |cats| %>
+      <img src="<%= cats['url']%>" width="300" height="300" alt="">
+    <% end%>
+  </body>
+</html>
