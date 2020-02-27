@@ -1,6 +1,18 @@
 {
   "RSpec": {
     "coverage": {
+      "/Users/student/Project/tech_tests/meow/spec/features/students_spec.rb": {
+        "lines": [
+          1,
+          1,
+          1,
+          1,
+          1,
+          null,
+          null,
+          null
+        ]
+      },
       "/Users/student/Project/tech_tests/meow/spec/features/test_infrastructure_spec.rb": {
         "lines": [
           1,
@@ -14,6 +26,6 @@
         ]
       }
     },
-    "timestamp": 1582805945
+    "timestamp": 1582813527
   }
 }

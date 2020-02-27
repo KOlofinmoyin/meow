@@ -29,5 +29,11 @@ So that I can see the homepage
 I would like to be able to see 'Welcome to Meow School'
 ```
 
+```
+As a caring Cat-parent
+So that I can see the photo of my Cat
+I would like to be able to see a photo of her/him on the Meow Students page
+```
+
 ## To do:
   – To be updated
