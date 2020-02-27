@@ -21,6 +21,9 @@ An app that retrieves data from a cat API endpoint and renders it on a web page.
 
 `rackup` the application will be live on https://localhost:9292 by default.
 
+## Wireframe
+![IMG_0609](https://user-images.githubusercontent.com/33905131/75455278-33980a00-5971-11ea-92be-0704fa97d778.jpg)
+
 ## Features
 Infrastructure
 ```
