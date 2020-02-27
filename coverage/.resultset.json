@@ -1,8 +1,9 @@
 {
   "RSpec": {
     "coverage": {
-      "/Users/student/Project/tect_tests/meow/spec/features/test_infrastructure_spec.rb": {
+      "/Users/student/Project/tech_tests/meow/spec/features/test_infrastructure_spec.rb": {
         "lines": [
+          1,
           1,
           1,
           1,
@@ -13,6 +14,6 @@
         ]
       }
     },
-    "timestamp": 1582761380
+    "timestamp": 1582805945
   }
 }
