@@ -4,7 +4,7 @@ Meow app. =^.^=
 
 An app that retrieves data from a cat API endpoint and renders it on a web page.
 
-<img width="640" alt="Screenshot 2020-02-27 at 00 08 54" src="https://user-images.githubusercontent.com/33905131/75399939-9c41a100-58f5-11ea-873e-6565457275c5.png">
+<img width="726" alt="Screenshot 2020-02-27 at 14 29 26" src="https://user-images.githubusercontent.com/33905131/75454730-c9319a80-596d-11ea-839d-90a21f3b2c0c.png">
 
 ## Setup
 - Register for cat <a href="https://thecatapi.com/signup">API key.</a>
