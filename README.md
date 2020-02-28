@@ -26,17 +26,21 @@ An app that retrieves data from a cat API endpoint and renders it on a web page.
 ![IMG_0609](https://user-images.githubusercontent.com/33905131/75461210-52e76500-597a-11ea-9cf1-d4fb1a42c06c.jpg)
 
 ## Features
-Infrastructure
+Infrastructure - Homepage
 ```
 As a user
 So that I can see the homepage
 I would like to be able to see 'Welcome to Meow School'
 ```
-
+Cat Students page
 ```
 As a caring Cat-parent
 So that I can see the photo of my Cat
 I would like to be able to see a photo of her/him on the Meow Students page
+
+As the Meow School Head of year
+So that I can see the photo of all Cat Students
+I would like to be able to see the photos of ALL Meow Students paginated
 ```
 
 ## To do:
