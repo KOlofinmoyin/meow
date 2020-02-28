@@ -1,11 +1,13 @@
 <!DOCTYPE html>
 <html lang="en" dir="ltr">
-  <head>
-    <meta charset="utf-8">
-    <title>Students page</title>
-  </head>
-  <body>
-    <h1>Students page: </h1>
-        <img src="<%=@image[0]['url']%>" alt="" width="400">
-  </body>
+<head>
+  <meta charset="utf-8">
+  <title>Students page</title>
+</head>
+<body>
+  <h1>Students page: </h1>
+  <% @images.each do |cats| %>
+  <img src="<%= cats['url']%>" width="200" alt="">
+  <% end%>
+</body>
 </html>
